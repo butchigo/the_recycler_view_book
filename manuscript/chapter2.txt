@@ -1,4 +1,4 @@
-# Chapter 2
+# Những khái niệm cơ bản và một vài ví dụ điển hình
 
 It was a **bold** and *italic* night!
 
