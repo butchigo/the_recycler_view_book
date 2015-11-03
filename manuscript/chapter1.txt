@@ -1,3 +1,14 @@
 # RecyclerView là gì và vì sao lại ra đời RecyclerView
 
-Hello, world!
+Trước khi đi vào tìm hiểu sự ra đời của ```RecyclerView```, việc nắm được ```AdapterView``` và các biến thể của nó (```ListView, Spinner, ...```) là một điều cần thiết.
+
+## 1. Nhắc lại về ```AdapterView``` trong ```Android```
+
+```AdapterView```, được biết đến nhiều nhất qua lớp con ```ListView``` của nó, là một thành phần quan trọng trong ứng dụng ```Android```. Vào thời điểm ```RecyclerView``` hay những thành phần tương tự chưa ra mắt, ```AdapterView``` có mặt trong hầu hết các ứng dụng thông thường (không phải Game hay các ứng dụng native khác).
+
+```AdapterView``` bản thân nó chỉ là một lớp trừu tượng, định nghĩa các khái niệm cơ bản cũng như tư tưởng của việc sử dụng ```Adapter``` trong ```Android```, ```Adapter``` và vai trò của nó trong ```AdapterView``` có thể được hiểu đơn giản như sau:
+
+
+<a name="note_android_adapter">http://developer.android.com/reference/android/widget/Adapter.html</a>
+
+> ```Adapter``` đóng vai trò như cầu nối giữa một ```AdapterView``` với những dữ liệuliệu được biểu diễn trên view đó. ```Adapter``` cho phép người dùng tương tác với dữ liệu. Bản thân nó cũng giữ trách niệm tạo các view để hiển thị dữ liệu đó.<sup>[1](#note_android_adapter)</sup>
