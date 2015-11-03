@@ -1,5 +1,3 @@
 # Những khái niệm cơ bản và một vài ví dụ điển hình
 
-It was a **bold** and *italic* night!
-
-Suddenly, a shot rang out!
+Một số khái niệm cơ bản về ```RecyclerView``` và các thành phần của nó.
