@@ -12,3 +12,12 @@ Trước khi đi vào tìm hiểu sự ra đời của ```RecyclerView```, việ
 <a name="note_android_adapter">http://developer.android.com/reference/android/widget/Adapter.html</a>
 
 > ```Adapter``` đóng vai trò như cầu nối giữa một ```AdapterView``` với những dữ liệuliệu được biểu diễn trên view đó. ```Adapter``` cho phép người dùng tương tác với dữ liệu. Bản thân nó cũng giữ trách niệm tạo các view để hiển thị dữ liệu đó.<sup>[1](#note_android_adapter)</sup>
+
+```java
+public static class Main() {
+
+    public static void main(String[] args) {
+
+    }
+}
+```
