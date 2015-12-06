@@ -5,3 +5,5 @@ Một số khái niệm cơ bản về ```RecyclerView``` và các thành phần
 # Test test test
 
 # Another Test
+
+So leanpub doesn't support MD extension. FUCK
