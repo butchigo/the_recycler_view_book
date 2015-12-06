@@ -21,3 +21,5 @@ public static class Main() {
     }
 }
 ```
+
+So what triggers the auto build?
